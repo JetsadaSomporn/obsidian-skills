@@ -1,0 +1,36 @@
+---
+title: Daily Note Template
+tags:
+  - template
+  - journal
+created: 2026-04-11
+updated: 2026-04-11
+---
+
+# {{date:YYYY-MM-DD}}
+
+## Top 3
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Log
+
+- 
+
+## Decisions
+
+- 
+
+## Learned
+
+- 
+
+## Next Actions
+
+- 
+
+## Notes To Move Later
+
+- 
